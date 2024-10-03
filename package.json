@@ -1,0 +1,16 @@
+{
+  "name": "json-to-go-map-application",
+  "version": "1.0.0",
+  "description": "This repo provides a way of running the tool https://github.com/rodrigo-brito/json-to-go-map as a containerised application and outputting a valid golang file",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "9.11.1"
+  },
+  "type": "module"
+}
